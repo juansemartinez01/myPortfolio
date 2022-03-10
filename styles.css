@@ -1,0 +1,98 @@
+h1 {
+  font-size: 500%;
+}
+
+h2 {
+  font-size: 300%;
+}
+
+.generalContainer {
+  padding: 7%;
+  background-color: #3A4750;
+  color: #EEEEEE;
+  font-family: 'Smooch Sans', sans-serif;
+}
+
+.generalSettings {
+  margin-top: 50%;
+  margin-bottom: 10%;
+
+}
+
+.navbar-settings {
+  background-color: #EEEEEE;
+  color: #00ADB5;
+  width: 100%;
+  font-family: 'Smooch Sans', sans-serif;
+  font-size: 200%;
+}
+
+.title {
+  display: inline-block;
+
+}
+
+/* Project design */
+.projects {
+  border-color: #EEEEEE;
+  border-width: thin;
+}
+
+.columns {
+
+
+  margin-left: 2%;
+  margin-top: 2%;
+
+
+
+  text-align: left;
+
+}
+
+.projectButton {
+  margin: 2%;
+}
+
+.projectImages {
+
+
+}
+
+.project-table {
+  text-align: center;
+}
+
+.sectionDesign {
+  margin-bottom: 10%;
+}
+
+.aboutMe {
+
+}
+
+.contactMe {
+
+}
+
+.contact-me-form {
+
+}
+.myData {
+  margin-top: 5%;
+
+}
+.box {
+  width: 30%;
+}
+.messageBox {
+  width: 50%;
+  height: 30%;
+}
+
+.footer {
+  background-color: #EEEEEE;
+  color: #3A4750;
+  text-align: center;
+  width: 100%;
+}
